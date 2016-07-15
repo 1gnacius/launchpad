@@ -1,0 +1,121 @@
+p{
+    color:#51CAFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:20px;
+    
+}
+
+div p{
+    color:black;
+    font-size: 55px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.class_test {
+    color:yellow;
+    font-size:30px;
+}
+
+.titulo:hover {
+    background-color:#efa455;
+    font-size:30px;
+    font-family: 'Bangers', cursive;
+}
+
+#id_test {
+    color:blue;
+    font-size:30px;
+}
+
+
+.hover_test:hover{
+    font-size:30px;
+    text-decoration: none;
+    color:#C1E82A;
+   /* background-image:url("http://www.marcasrenombradas.com/wp-content/uploads/2011/07/hola.jpg"); */
+   background-color: #efa457;
+   opacity: 0.7;
+}
+
+
+
+
+a:visited{
+    background:black;
+    color:#C72AE8;
+    
+    
+    }
+    
+    
+
+/* #tabla{
+    border: 1px;
+    border-style:solid;
+    height: 100px;
+    width: 100px;
+    
+    
+    
+} */
+
+
+
+td{
+    border: 1px;
+    border-style:solid;
+    height: 100px;
+    width: 100px;
+    color:red;
+     font-family: 'Open Sans Condensed', sans-serif;
+      text-align: center;
+}
+
+
+tr{
+    border: 1px;
+    border-style:solid;
+    height: 100px;
+    width: 100px;
+    color:red;
+     font-family: 'Open Sans Condensed', sans-serif;
+       text-align: center;
+}
+
+
+th{
+    border: 1px;
+    border-style:solid;
+    height: 100px;
+    width: 100px;
+    color:blue;
+    text-align: center;
+}
+
+#hola{
+    border: 1px;
+    border-style:solid;
+    height: 100px;
+    width: 100px;
+    color:blue;
+    background-color: yellow;
+    
+}
+
+#imagen{
+    background-image: url("https://pbs.twimg.com/profile_images/1638768496/hoja.png");
+    
+    
+    
+    
+}
+
+/*  div, p AFECTA A LOS DIV Y p
+    div p afecta a los parrafos de los div
+    id afecta a elementos en particular
+    class afecta a elementos en general
+    clase con .
+    id con #
+    
+*/
